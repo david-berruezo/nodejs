@@ -9,3 +9,16 @@ Though .js is the standard filename extension for JavaScript code, the name "Nod
 The Node.js distributed development project was previously governed by the Node.js Foundation,[8] and has now merged with the JS Foundation to form the OpenJS Foundation, which is facilitated by the Linux Foundation's Collaborative Projects program.[9]
 
 Corporate users of Node.js software include GoDaddy,[10] Groupon,[11] IBM,[12] LinkedIn,[13][14] Microsoft,[15][16] Netflix,[17] PayPal,[18][19] Rakuten, SAP,[20] Voxer,[21] Walmart,[22] and Yahoo!.[23]
+
+
+## Overview
+
+We will learn how to use the following Node.js global objects.
+
+.process
+.__dirname
+.__filename
+.require()
+.module
+.URL
+
