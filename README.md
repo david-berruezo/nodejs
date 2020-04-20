@@ -12,18 +12,18 @@ This is in contrast to today's more common concurrency model, in which OS thread
 We will learn how to use the following Node.js global objects.
 
 . __dirname<br>
-. __filename
-. exports
-. module
-. require()
+. __filename<br>
+. exports<br>
+. module<br>
+. require()<br>
 
 
-And other objects as 
+And other objects as<br> 
 
-. Events
-. Http
-. Url
-. Process
-. require()
+. Events<br>
+. Http<br>
+. Url<br>
+. Process<br>
+. require()<br>
 
 
