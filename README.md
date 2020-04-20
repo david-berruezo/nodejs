@@ -11,7 +11,7 @@ This is in contrast to today's more common concurrency model, in which OS thread
 
 We will learn how to use the following Node.js global objects.
 
-. __dirname
+. __dirname<br>
 . __filename
 . exports
 . module
