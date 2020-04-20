@@ -40,3 +40,13 @@ let segundo_apellido = "Bernad";
 my_emitter.emit('event',nombre,primer_apellido,segundo_apellido);
 ```
 
+Throw an error event
+
+```js
+// event throw error
+my_emitter.on('error',(err) => {
+  console.log("Se lanza un error "+err);
+});
+
+my_emitter.emit('error',new Error('whooops'));
+```
