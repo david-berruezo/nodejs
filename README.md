@@ -1,4 +1,4 @@
-# process
+# nodejs
 
 ## Overview
 
@@ -7,7 +7,7 @@ As an asynchronous event-driven JavaScript runtime, Node.js is designed to build
 This is in contrast to today's more common concurrency model, in which OS threads are employed. Thread-based networking is relatively inefficient and very difficult to use. Furthermore, users of Node.js are free from worries of dead-locking the process, since there are no locks. Almost no function in Node.js directly performs I/O, so the process never blocks. Because nothing blocks, scalable systems are very reasonable to develop in Node.js.
 
 
-## Overview
+## Objects
 
 We will learn how to use the following Node.js global objects.
 
