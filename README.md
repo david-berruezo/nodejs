@@ -24,6 +24,6 @@ And other objects as<br>
 . Http<br>
 . Url<br>
 . Process<br>
-. require()<br>
+
 
 
